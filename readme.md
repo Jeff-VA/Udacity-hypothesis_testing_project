@@ -1,5 +1,5 @@
 ### Date created
-May 15, 2019 (originally May 1, 2019)
+May 1, 2019
 
 ### Project Title
 A_B hypothesis testing with Python
@@ -11,13 +11,15 @@ This project demonstrates the use of the following statistical methods to analyz
 * z-test functions
 * logistic regression models
 
-This project is still being edited for easy interpretation, however the `.ipynb` file is included with the appropriate code and necessary data files.
+Although all three statistical methods are performed in the primary A/B Analysis notebook, an overview of the bootstrapping method is 
+briefly described in the following slideshow:
 
-### Files used
+[A/B Testing With bootstrapped simulations](https://jeff-va.github.io/hypothesis_testing_project/slide_deck.slides.html)
 
-* Analyze_ab_test_results_notebook.ipynb
-* ab_data.csv
-* countries.csv
+### Primary Analysis notebook
+
+* [Analyze_ab_test_results_notebook.ipynb](https://github.com/Jeff-VA/hypothesis_testing_project/blob/master/Analyze_ab_test_results_notebook.ipynb)
+
 
 ### Programs and required packages
 
@@ -39,6 +41,6 @@ This project is still being edited for easy interpretation, however the `.ipynb`
 
 ###### Sources code reference:
 
-* Python Standard Library: https://docs.python.org/3/library/
-* Pandas Library: https://pandas.pydata.org/pandas-docs/stable/
-* Matplotlib Library: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html
+* [Python Standard Library](https://docs.python.org/3/library/)
+* [Pandas Library](https://pandas.pydata.org/pandas-docs/stable/)
+* [Matplotlib Library](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html)
